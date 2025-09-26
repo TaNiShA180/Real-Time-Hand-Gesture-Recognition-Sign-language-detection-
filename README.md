@@ -4,7 +4,11 @@ This project is a complete pipeline for creating a real-time hand gesture recogn
 
 **Please Note**: This current implementation is trained to recognize three specific hand gestures, which are mapped to the labels 'A', 'B', and 'L'. You can easily extend this by following the steps in the **Customization** section.
 
+***
+### Demo
 
+
+https://github.com/user-attachments/assets/4c726c3f-112c-4d77-af60-bbfe7dc2f4eb
 
 ***
 ## Features
@@ -119,11 +123,7 @@ To add more gestures:
     labels_dict = {0: 'A', 1: 'B', 2: 'L', 3: 'C'}
     ```
 3.  Re-run the entire pipeline (Steps 1-4).
-***
-### Demo
 
-
-https://github.com/user-attachments/assets/4c726c3f-112c-4d77-af60-bbfe7dc2f4eb
 
 
 ***
