@@ -119,6 +119,12 @@ To add more gestures:
     labels_dict = {0: 'A', 1: 'B', 2: 'L', 3: 'C'}
     ```
 3.  Re-run the entire pipeline (Steps 1-4).
+***
+### Demo
+
+
+https://github.com/user-attachments/assets/4c726c3f-112c-4d77-af60-bbfe7dc2f4eb
+
 
 ***
 ## License
