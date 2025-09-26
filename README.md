@@ -1,4 +1,4 @@
-# Real-Time Hand Gesture Recognition using MediaPipe
+# Real-Time Hand Gesture Recognition(Sign Language Detection)using MediaPipe
 
 This project is a complete pipeline for creating a real-time hand gesture recognition system. It uses OpenCV to capture video, MediaPipe for accurate hand landmark detection, and a Scikit-learn RandomForestClassifier to recognize custom gestures.
 
